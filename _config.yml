@@ -1,5 +1,6 @@
 title: "meta-magpie"
-description: "High availability  and network topology specifications for yetone/magpie - Scalable architecture and high-throughput network engine."
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-relative-links
+description: "Official architecture documentation and production specifications for meta-magpie"
+lang: en-US
+exclude:
+  - node_modules
+  - .git
